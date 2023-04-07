@@ -1,7 +1,7 @@
 fx_version 'cerulean'
 game 'gta5'
 
-author 'Lenzh'
+author 'RG'
 description 'Chopshop script for QBCore framework'
 version '1.0.0'
 
